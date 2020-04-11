@@ -8,7 +8,7 @@ $("#increase").click(() => {
         console.log("its 3")
         val = 3
         $('#thediv').append('<img id="theImg" src="./gyula.gif"/>')
-        $('#divsecond').append('<img id="theImgsecond" height="200" width="400" src="./bazinga.jpg"/>')}
+        $('#divsecond').append('<img id="theImgsecond" height="200px" width="400px" src="./bazinga.jpg"/>')}
         $("h2").text(value)
 } )
 $("#decrease").click(()=>
