@@ -1,5 +1,5 @@
 body {
-    min-width:640px;
+    min-width:1280px;
     }
 button {
     color: black;
@@ -13,9 +13,6 @@ button {
 }
 h1 {
     padding-left: 20px;
-}
-h2 {
-    padding-left: 50px;
 }
 container {
     padding-left:10px ;
@@ -41,4 +38,10 @@ div {
     left:510px;
     background-color:none;
     padding:0px;  
+}
+h2 {
+    color:white;
+    position: absolute;
+    left:1280px;
+    top:500px;
 }
