@@ -39,6 +39,9 @@ div {
     background-color:none;
     padding:0px;  
 }
+h2 {
+    padding-left:50px;
+}
 h3 {
     color:white;
     position: absolute;
